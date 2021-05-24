@@ -1,0 +1,23 @@
+.table {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(11, 1fr);
+}
+
+.cuadro {
+  
+    border: 1px solid black;
+    
+
+}
+
+.blue {
+    background-color: rgb(195, 228, 228);
+
+}
+.cream {
+
+
+    background-color: rgb(242, 222, 204);
+
+}
