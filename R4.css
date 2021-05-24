@@ -1,0 +1,13 @@
+
+.country div{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+    
+       
+}
+
+.country div div {
+    
+    border: 2px solid black;
+    text-align: justify;
+}
